@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class = 'contenedor'>
+      <div class = 'caja'>
+        <div class = 'contenido'>
+          <img src = 'https://cdn.discordapp.com/attachments/657854793225601025/692519097342361620/bully.png'>
+          <p>
+            ¿Bullyng?
+          </p>
+          <p class = 'parrafo'>
+            Se conoce como ciberbullyng o ciberacoso, y si, existe, ¿Cómo podemos prevenir éste tipo de actos? les mostrare como: a continuación.
+          </p>
+        </div>
+      </div>
+            <div class = 'caja'>
+        <div class = 'contenido'>
+          <img src = 'https://cdn.discordapp.com/attachments/657854793225601025/692520442455392347/bottle.png'>
+          <p>
+            Sus Causas
+          </p>
+          <p class = 'parrafo'>
+            Las causas pueden ser probocadas por un individuo que puede tener un complejo de inferioridad atacando a personas que son más deviles que el y atacandolas para sentirse superior. Este tipo de problemas comienzan por eso, segun yo.
+          </p>
+        </div>
+      </div>
+            <div class = 'caja'>
+        <div class = 'contenido'>
+          <img src = 'https://cdn.discordapp.com/attachments/657854793225601025/692520994107162694/terrorist.png'>
+          <p>
+            Consecuencias.
+          </p>
+          <p class = 'parrafo'>
+            las consecuancias pueden ser tomadas de diferente forma dependiendo de el tipo de persona que las recibe, unos pueden simplemente bloquear a la persona que los esta acosando/molestando/intimidando y todo para. Pero si la persona es más sensible puede que le afecte psicológicamente de manera quiza permanente.
+          </p>
+        </div>
+      </div>
+            <div class = 'caja'>
+        <div class = 'contenido'>
+          <img src = 'https://cdn.discordapp.com/attachments/657854793225601025/692521493489254400/bully.png'>
+          <p>
+            ¿Cómo se puede prevenir?
+          </p>
+          <p class = 'parrafo'>
+            Lo más recomendado para resolver éste tipo de casos es llamar a las autoridades, bueno, quiza no tan de repente, primero llamen a una persona que sepa llevar este tipo de situaciones. Principalmente puede que solo sea nesesario bloquear a la persona y ya, pero eso depende del caso.
+          </p>
+        </div>
+      </div>
+                  <div class = 'caja'>
+        <div class = 'contenido'>
+          <p class = 'marca'>
+            Hecho por: Yuxin.
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
