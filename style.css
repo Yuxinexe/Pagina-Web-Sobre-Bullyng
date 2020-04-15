@@ -1,0 +1,72 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Rubik', sans-serif;
+}
+
+body
+{
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  min-height: 100VH;
+  background: #222;
+}
+
+.contenedor
+{
+  position: relative;
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300PX, 1fr));
+  grid-template-rows: minmax(120PX, auto);
+  margin: 50PX;
+  grid-auto-flow: dense;
+  grid-gap: 15PX;
+}
+
+.contenedor .caja
+{
+  background: #333;
+  padding: 20PX;
+  display: grid;
+  font-size: 20PX;
+  place-items: center;
+  text-align: center;
+  color: #fff;
+  transition: 0.5s;
+  border-radius: 15PX;
+}
+
+.contenedor .caja:hover
+{
+  background: #FEC54B;
+  color: #222;
+}
+
+.contenedor .caja img
+{
+  position: relative;
+  max-width: 150PX;
+  margin-bottom: 20PX;
+}
+
+.contenedor .caja:nth-child(1)
+{
+  grid-column: span 1;
+  grid-row: span 2;
+}
+
+.marca
+{
+  padding-top: auto;
+  padding-bottom: auto;
+}
+
+.parrafo
+{
+  font-size: 12PX;
+  padding-top: 20PX;
+}
